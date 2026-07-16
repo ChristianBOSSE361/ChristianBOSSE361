@@ -3,7 +3,7 @@
 <h3 align="center">Final-Year Engineering Student @ Grenoble INP - Ensimag | AI Master's Double Degree</h3>
 
 <p align="center">
-  🚀 Currently on my end-of-studies internship — <b>AI Pentesting Research Engineer</b> at Astek Group<br/>
+  🚀 Currently on my end-of-studies internship - <b>AI Pentesting Research Engineer</b> at Astek Group<br/>
   🔍 Looking for opportunities in <b>AI Engineering</b>, <b>ML|Data Engineering</b> or <b>Data Science</b> 
 </p>
 
